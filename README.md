@@ -14,12 +14,11 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 - Tableau visualizations
 - Machine Learning predictor
 
-Pinned Project - below you will see some of my fav personal projects in detail. 
+Pinned Projects - below you will see some of my fav personal projects in detail. 
 
-<!--
-**jaysueno/jaysueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<details>
+    
+<summary><strong>More About Me</strong></summary>
 
 - 🔭 I’m currently working on applying to Data Science, Machine Learning, Data Analytics, and Project Management jobs
 - 🌱 I’m currently learning Stanford's Machine Learning Certificate by Andrew Ng
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: add and message me on instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've surfed in 6 countries
--->
+- 📸 Instagram: (www.instagram.com/jay_sueno) 
+</details>
