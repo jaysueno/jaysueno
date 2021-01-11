@@ -10,7 +10,7 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 <!-- <summary><strong>Index</strong></summary> -->
 ### Index
 
-- [personal_projects](https://github.com/jaysueno/personal_projects) - here you will find an overview of my work with highlights from topics like:
+- [personal_projects](https://github.com/jaysueno/personal_projects) (under construction) - here you will find an overview of my work with highlights from topics like:
     - Python coding
     - SQL
     - Tableau visualizations
