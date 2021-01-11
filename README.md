@@ -20,13 +20,12 @@ Pinned Projects - below you will see some of my fav personal projects in detail.
     
 <summary><strong>More About Me</strong></summary>
 
-- 🔭 I’m currently working on applying to Data Science, Machine Learning, Data Analytics, and Project Management jobs
-- 🌱 I’m currently learning Stanford's Machine Learning Certificate by Andrew Ng
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with finding a job in tech.
+- 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics, and Project Management. If you are looking for a hardworking team member, look no further!
+- 🌱 I’m currently enrolled in Stanford's [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 - 💬 Ask me about intersectional activism
-- 📫 How to reach me: add and message me on instagram
+- 📫 How to reach me: jay.sueno@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've surfed in 6 countries
-- 📸 Instagram: (www.instagram.com/jay_sueno) 
+- ✔ LinkedIn: www.linkedin.com/in/jaysueno
+- 📸 Instagram: [@jay_sueno](www.instagram.com/jay_sueno) 
 </details>
