@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-<summary><strong>About Me</strong></summary>
+<!-- <summary><strong>About Me</strong></summary> -->
+### About Me
 
 My name is [Jay Sueno](https://www.linkedin.com/in/jaysueno) and I'm a novice data scientist with a [certificate](https://bootcamp.extension.ucsd.edu/data/) from UC San Diego in Data Science and Visualization. I believe that <strong>artifical intelligence</strong> and <strong>machine learning</strong> are the next industrial revolution and can be a cause for good in the world. It's up to humans like you and me to guide that future. 
 
