@@ -16,7 +16,7 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 - Pinned Projects - below you will see some of my fav personal projects in detail. 
 - Professional accomplishments
     - [MamaP LLC](https://mamap.life) - I co-founded an e-commerce and B2B business that sells household products that help you switch from plastic to natural. With each purchase you get to give back to causes.
-    - [Room To Roam](www.room-roam.com) - I developed the digital marketing and analytics strategy for this wellness resort in Nicaragua. A capstone project at <strong>UCLA's Exectuive MBA</strong>.
+    - [Room To Roam](https://www.room-roam.com) - I developed the digital marketing and analytics strategy for this wellness resort in Nicaragua. A capstone project at <strong>UCLA's Exectuive MBA</strong>.
 
 
 <details>
