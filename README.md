@@ -26,9 +26,8 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 - 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics, and Project Management. If you are looking for a hardworking team member, look no further!
 - 🌱 I’m currently enrolled in Stanford's [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 - 💬 Ask me about intersectional activism
-- 📫 How to reach me: jay.sueno@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/jaysueno
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've surfed in 6 countries
-- ✔ LinkedIn: www.linkedin.com/in/jaysueno
 - 📸 Instagram: [@jay_sueno](www.instagram.com/jay_sueno) 
 </details>
