@@ -7,7 +7,8 @@ My name is [Jay Sueno](https://www.linkedin.com/in/jaysueno) and I'm a novice da
 
 One of the paradigms I ascribe to is <strong>intersectional activism</strong> to solve the challenges of our world. Climate change, inequality, environmental justice, technology, education, race, and human ingenuity are interconnected. I believe that through data we can find patterns and educate ourselves to choose the best decisions. 
 
-<summary><strong>Index</strong></summary>
+<!-- <summary><strong>Index</strong></summary> -->
+### Index
 
 - [personal_projects](https://github.com/jaysueno/personal_projects) - here you will find an overview of my work with highlights from topics like:
     - Python coding
@@ -23,6 +24,7 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 <details>
     
 <summary><strong>More About Me</strong></summary>
+
 
 - 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics, and Project Management. If you are looking for a hardworking team member, look no further!
 - 🌱 I’m currently enrolled in Stanford's [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning) by Andrew Ng
