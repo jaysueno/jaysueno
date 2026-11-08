@@ -1,36 +1,72 @@
-## Hi there 👋 
+# Jay Sueno
 
-<!-- <summary><strong>About Me</strong></summary> -->
-### About Me
+**I learned to code at forty. Now it runs the company.**
 
-My name is [Jay Sueno](https://www.linkedin.com/in/jaysueno) and I'm a novice data scientist with a [certificate](https://bootcamp.extension.ucsd.edu/data/) from UC San Diego in Data Science and Visualization. I believe that <strong>artifical intelligence</strong> and <strong>machine learning</strong> are the next industrial revolution and can be a cause for good in the world. It's up to humans like you and me to guide that future. 
+I'm the founder and CEO of [Vultun](https://vultun.com), a wellness group of ten business units on
+Siargao, a surf island in the southern Philippines. I'm not a software engineer. I'm an operator
+with a data science certificate and a lot of agents. I design the software that runs the company,
+review it, and merge it. AI agents write nearly all of it.
 
-One of the paradigms I ascribe to is <strong>intersectional activism</strong> to solve the challenges of our world. Climate change, inequality, environmental justice, technology, education, race, and human ingenuity are interconnected. I believe that through data we can find patterns and educate ourselves to choose the best decisions. 
+Almost all of that code is private, because it is full of real people. I'm pulling out the parts I
+can share, one small piece at a time.
 
-<!-- <summary><strong>Index</strong></summary> -->
-### Index
+## Where it started
 
-- [personal_projects](https://github.com/jaysueno/personal_projects) (under construction) - here you will find an overview of my work with highlights from topics like:
-    - Python coding
-    - SQL
-    - Tableau visualizations
-    - Machine Learning predictor
-- Pinned Projects - below you will see some of my fav personal projects in detail. 
-- Professional accomplishments
-    - [MamaP LLC](https://mamap.life) - I co-founded an e-commerce and B2B business that sells household products that help you switch from plastic to natural. With each purchase you get to give back to causes.
-    - [Room To Roam](https://www.room-roam.com) - I developed the digital marketing and analytics strategy for a startup wellness resort in Nicaragua. A capstone project at <strong>UCLA's Executive MBA</strong>.
+My first code was BASIC on an Apple IIGS, a machine that booted straight into a prompt and ran
+whatever you typed. Then Sierra's King's Quest showed me a computer could hold a whole world, and in
+1997 I was one of the first players in Ultima Online, where a hundred thousand of us found out what
+a shared world does to people. Then I started businesses. The thread is the same the whole way:
+technology meets the real world and real people, and something happens that neither does alone.
+That is the magic sauce. It is why a wellness company on a surf island runs on software I build.
 
+## 2026, in commits
 
-<details>
-    
-<summary><strong>More About Me</strong></summary>
+Counted November 7, 2026, across sixteen private repos.
 
+| | |
+|---|---|
+| 4,305 | commits on main branches, January 11 to November 7 |
+| 3,168 | merged pull requests |
+| 84% | of those commits carry a Claude co-author line. I read, I decide, I merge. |
+| 216 | active days out of 301. Longest streak, 39 days. Busiest day, 91 commits. |
 
-- 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics, and Project Management. If you are looking for a hardworking team member, look no further!
-- 🌱 I’m currently enrolled in Stanford's [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning) by Andrew Ng
-- 💬 Ask me about intersectional activism
-- 📫 How to reach me: www.linkedin.com/in/jaysueno
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've surfed in 6 countries
-- 📸 Instagram: [@jay_sueno](https://www.instagram.com/jay_sueno) 
-</details>
+## What I'm sharing
+
+Real operator software that runs a real business, one small piece at a time. Each one opens with
+the dated mistake that caused it.
+
+| Repo | What it is | Status |
+|---|---|---|
+| claude-operator-kit | The hooks, rules, and skills I run every session with. Each rule carries the date of the mistake that caused it. | cleaning up |
+| agent-cage | How I keep a personal AI agent in a box: read-only filesystem, default-deny network, and the fire drills that prove it holds. | cleaning up |
+| ollama-context-guard | One model, one context window. The outage, the measured cause, and the guard that keeps it from coming back. | cleaning up |
+| llm-eval-gates | Evals that block a model or prompt change when it regresses. Hard-zero gates, harnesses that prove themselves first. | cleaning up |
+| markdown-brain | A second brain in plain Markdown, filed and recalled by a local model. The machinery, never my notes. | cleaning up |
+| sealed-tests | The grader writes the tests first and seals them. The builder cannot touch them. | cleaning up |
+| autoresearch-mac-mini | I let an agent tune my Mac Mini overnight. The best change was deleting my system prompt. | cleaning up |
+| creator-ledger | Track your own posts and audience across platforms with a few scripts and three CSV files. | cleaning up |
+
+## How I build
+
+- Functions decide and fetch. The model phrases.
+- Every rule carries the date of the mistake that caused it.
+- A human approves anything that touches money, customers, or health data.
+- Verify against the real thing, never against the model's claim.
+
+## What I use
+
+Claude Code, where nearly all of it gets written. A Mac Mini with a local Qwen model for the
+repetitive work. Supabase, Resend, and DigitalOcean. Astro and Next.js.
+
+## Before the island
+
+University of Washington. Finance at Boeing. Commercial property and a multi-family development in
+Olympia. Co-founded MamaP in Seattle. Back to school at forty for a data science certificate from
+UC San Diego, then data analyst at Amazon. Moved to Siargao in 2022.
+
+## Elsewhere
+
+[jaysueno.com](https://jaysueno.com) · [The Long Paddle](https://jaysueno.substack.com) ·
+[X](https://x.com/therealjaysueno) · [Instagram](https://www.instagram.com/jay_sueno) ·
+[LinkedIn](https://www.linkedin.com/in/jaysueno) · [Resume](https://jaysueno.com/resume/) ·
+[resume.json](https://jaysueno.com/resume.json) · [llms.txt](https://jaysueno.com/llms.txt)
