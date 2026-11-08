@@ -43,8 +43,10 @@ the dated mistake that caused it.
 | llm-eval-gates | Evals that block a model or prompt change when it regresses. Hard-zero gates, harnesses that prove themselves first. | cleaning up |
 | markdown-brain | A second brain in plain Markdown, filed and recalled by a local model. The machinery, never my notes. | cleaning up |
 | sealed-tests | The grader writes the tests first and seals them. The builder cannot touch them. | cleaning up |
-| autoresearch-mac-mini | I let an agent tune my Mac Mini overnight. The best change was deleting my system prompt. | cleaning up |
+| [autoresearch-mac-mini](https://github.com/jaysueno/autoresearch-mac-mini) | I let an agent tune my Mac Mini overnight. The best change was cutting my system prompt to one line. | public |
 | creator-ledger | Track your own posts and audience across platforms with a few scripts and three CSV files. | cleaning up |
+| [email-bounce-breaker](https://github.com/jaysueno/email-bounce-breaker) | Two small libraries that pause a send when hard bounces climb. Born from a suppressor that ran dead for four months. | public |
+| [jaysueno.com](https://github.com/jaysueno/jaysueno.com) | The code behind this site: plain files an agent can edit, a Markdown twin per page, llms.txt, a lead form behind row-level security. | public |
 
 ## How I build
 
