@@ -37,9 +37,9 @@ the dated mistake that caused it.
 
 | Repo | What it is | Status |
 |---|---|---|
-| claude-operator-kit | The hooks, rules, and skills I run every session with. Each rule carries the date of the mistake that caused it. | cleaning up |
+| [claude-operator-kit](https://github.com/jaysueno/claude-operator-kit) | The hooks, rules, and skills I run every session with. Each rule carries the date of the mistake that caused it. | public |
 | agent-cage | How I keep a personal AI agent in a box: read-only filesystem, default-deny network, and the fire drills that prove it holds. | cleaning up |
-| ollama-context-guard | One model, one context window. The outage, the measured cause, and the guard that keeps it from coming back. | cleaning up |
+| [ollama-context-guard](https://github.com/jaysueno/ollama-context-guard) | One model, one context window. The outage, the measured cause, and the guard that keeps it from coming back. | public |
 | llm-eval-gates | Evals that block a model or prompt change when it regresses. Hard-zero gates, harnesses that prove themselves first. | cleaning up |
 | markdown-brain | A second brain in plain Markdown, filed and recalled by a local model. The machinery, never my notes. | cleaning up |
 | sealed-tests | The grader writes the tests first and seals them. The builder cannot touch them. | cleaning up |
