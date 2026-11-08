@@ -1,5 +1,7 @@
 # Jay Sueno
 
+<img align="right" width="260" src="assets/portrait-bw.jpg" alt="Black and white portrait of Jay Sueno at a table in a dark T-shirt, hands clasped, looking past the camera.">
+
 **I learned to code at forty. Now it runs the company.**
 
 I'm the founder and CEO of [Vultun](https://vultun.com), a wellness group of ten business units on
@@ -10,7 +12,12 @@ review it, and merge it. AI agents write nearly all of it.
 Almost all of that code is private, because it is full of real people. I'm pulling out the parts I
 can share, one small piece at a time.
 
+![Heatmap of 2026 with one mark per day from January 1 to November 7: 4,305 commits across 216 active days, a longest streak of 39 days and a busiest day of 91 commits.](assets/paddle-2026.svg)
+
 ## Where it started
+
+![Jay in an orange shirt crouched low in the pocket of a steep green wave, with white water behind him and a low island on the horizon.](assets/surf-pocket.jpg)
+*Bomi, Siargao. November 16, 2024. Photo by Tom Soupart.*
 
 My first code was BASIC on an Apple IIGS, a machine that booted straight into a prompt and ran
 whatever you typed. Then Sierra's King's Quest showed me a computer could hold a whole world, and in
@@ -22,6 +29,8 @@ That is the magic sauce. It is why a wellness company on a surf island runs on s
 ## 2026, in commits
 
 Counted November 7, 2026, across sixteen private repos.
+
+![Four tiles: 4,305 commits, 3,168 merged pull requests, 84% with a Claude co-author line, and 216 active days of 301, counted November 7, 2026.](assets/2026-in-commits.svg)
 
 | | |
 |---|---|
@@ -47,6 +56,8 @@ the dated mistake that caused it.
 | creator-ledger | Track your own posts and audience across platforms with a few scripts and three CSV files. | cleaning up |
 
 ## How I build
+
+![Five steps from left to right: Jay designs and reviews, agents write, a deterministic gate checks, a human approves money, messages and health data, and the live object is verified.](assets/how-i-build.svg)
 
 - Functions decide and fetch. The model phrases.
 - Every rule carries the date of the mistake that caused it.

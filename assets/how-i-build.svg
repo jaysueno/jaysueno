@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">How I build</title>
+<desc id="d">Five steps from left to right: Jay designs and reviews, agents write, a deterministic gate checks, a human approves money, messages and health data, and the live object is verified.</desc>
+<rect x="0" y="0" width="1200" height="360" fill="#EDE7DC"/><rect x="1" y="1" width="1198" height="358" fill="#001B3B"/>
+<text x="40" y="64" font-family="Georgia, 'Playfair Display', serif" font-size="34" fill="#F2EDE2">How I build</text>
+<text x="40" y="96" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">Functions decide and fetch. The model phrases.</text>
+<rect x="40" y="128" width="188.8" height="192" fill="#EDE7DC"/><rect x="41" y="129" width="186.8" height="190" fill="#001B3B"/>
+<text x="60" y="166" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">1</text>
+<text x="60" y="206" font-family="Georgia, 'Playfair Display', serif" font-size="28" fill="#F2EDE2">Design</text>
+<text x="60" y="242" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">Jay designs</text>
+<text x="60" y="266" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">and reviews</text>
+<rect x="234.8" y="222" width="19" height="4" fill="#8C5348"/><polygon points="252.8,215 266.8,224 252.8,233" fill="#8C5348"/>
+<rect x="272.8" y="128" width="188.8" height="192" fill="#EDE7DC"/><rect x="273.8" y="129" width="186.8" height="190" fill="#001B3B"/>
+<text x="292.8" y="166" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">2</text>
+<text x="292.8" y="206" font-family="Georgia, 'Playfair Display', serif" font-size="28" fill="#F2EDE2">Write</text>
+<text x="292.8" y="242" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">Agents write</text>
+<text x="292.8" y="266" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">nearly all of it</text>
+<rect x="467.6" y="222" width="19" height="4" fill="#8C5348"/><polygon points="485.6,215 499.6,224 485.6,233" fill="#8C5348"/>
+<rect x="505.6" y="128" width="188.8" height="192" fill="#EDE7DC"/><rect x="506.6" y="129" width="186.8" height="190" fill="#001B3B"/>
+<text x="525.6" y="166" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">3</text>
+<text x="525.6" y="206" font-family="Georgia, 'Playfair Display', serif" font-size="28" fill="#F2EDE2">Check</text>
+<text x="525.6" y="242" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">A deterministic</text>
+<text x="525.6" y="266" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">gate checks</text>
+<rect x="700.4" y="222" width="19" height="4" fill="#8C5348"/><polygon points="718.4,215 732.4,224 718.4,233" fill="#8C5348"/>
+<rect x="738.4" y="128" width="188.8" height="192" fill="#EDE7DC"/><rect x="739.4" y="129" width="186.8" height="190" fill="#001B3B"/>
+<text x="758.4" y="166" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">4</text>
+<text x="758.4" y="206" font-family="Georgia, 'Playfair Display', serif" font-size="28" fill="#F2EDE2">Approve</text>
+<text x="758.4" y="242" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">A human approves</text>
+<text x="758.4" y="266" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">money, messages</text>
+<text x="758.4" y="290" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">and health data</text>
+<rect x="933.2" y="222" width="19" height="4" fill="#8C5348"/><polygon points="951.2,215 965.2,224 951.2,233" fill="#8C5348"/>
+<rect x="971.2" y="128" width="188.8" height="192" fill="#EDE7DC"/><rect x="972.2" y="129" width="186.8" height="190" fill="#001B3B"/>
+<text x="991.2" y="166" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#D8D3CA">5</text>
+<text x="991.2" y="206" font-family="Georgia, 'Playfair Display', serif" font-size="28" fill="#F2EDE2">Verify</text>
+<text x="991.2" y="242" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">The live object</text>
+<text x="991.2" y="266" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">is verified</text>
+</svg>

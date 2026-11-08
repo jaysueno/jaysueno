@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">2026, in commits</title>
+<desc id="d">Four tiles: 4,305 commits, 3,168 merged pull requests, 84% with a Claude co-author line, and 216 active days of 301, counted November 7, 2026.</desc>
+<rect x="0" y="0" width="1200" height="300" fill="#001B3B"/><rect x="1" y="1" width="1198" height="298" fill="#EDE7DC"/>
+<text x="40" y="58" font-family="Georgia, 'Playfair Display', serif" font-size="30" fill="#001B3B">2026, in commits</text>
+<text x="40" y="88" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#001B3B">Counted November 7, 2026, across sixteen private repos.</text>
+<rect x="40" y="112" width="265" height="152" fill="#001B3B"/>
+<text x="64" y="188" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" fill="#F2EDE2" font-weight="700">4,305</text>
+<text x="64" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">commits on main branches</text>
+<rect x="325" y="112" width="265" height="152" fill="#001B3B"/>
+<text x="349" y="188" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" fill="#F2EDE2" font-weight="700">3,168</text>
+<text x="349" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">merged pull requests</text>
+<rect x="610" y="112" width="265" height="152" fill="#001B3B"/>
+<text x="634" y="188" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" fill="#F2EDE2" font-weight="700">84%</text>
+<text x="634" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">with a Claude</text>
+<text x="634" y="244" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">co-author line</text>
+<rect x="895" y="112" width="265" height="152" fill="#001B3B"/>
+<text x="919" y="188" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" fill="#F2EDE2" font-weight="700">216</text>
+<text x="919" y="222" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#D8D3CA">active days of 301</text>
+</svg>
