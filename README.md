@@ -66,8 +66,14 @@ the dated mistake that caused it.
 
 ## What I use
 
-Claude Code, where nearly all of it gets written. A Mac Mini with a local Qwen model for the
-repetitive work. Supabase, Resend, and DigitalOcean. Astro and Next.js.
+| Tool | What it does |
+|---|---|
+| Claude Code | Where nearly all of it gets written |
+| Mac Mini with a local Qwen model | The repetitive work, on my own hardware |
+| Supabase | The database |
+| Resend | Email |
+| DigitalOcean VPS | Runs the crons and the agent |
+| Astro and Next.js | The websites and the internal app |
 
 ## Before the island
 
